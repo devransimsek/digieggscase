@@ -2,9 +2,9 @@
 
 ## _Bu proje Digieggs firmasının test projesidir._
 
-#
-
 # Video
+
+[VIDEO İÇİN LÜTFEN TIKLAYINIZ](https://youtu.be/OfsU0yAYf3c)
 
 ## --- Projeyi Çalıştırmak için Yapılması Gerekenler. ---
 
